@@ -1,0 +1,14 @@
+.barrasuperior{
+background-color: ##044F67;
+height:40px;
+}
+.letras
+{
+font: bold 16px MiNuevaFuente, verdana, sans-serif;
+text-shadow: rgb(0,0,150) 3px 3px 5px;
+color: #E6E9ED;
+}
+@font-face {
+font-family: 'MiNuevaFuente';
+src: url('Sansakid.ttf');
+}
